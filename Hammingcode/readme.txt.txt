@@ -1,0 +1,1 @@
+This is a basic class having Hamming code generating capacity and showing the hamming code error as well.
