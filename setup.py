@@ -8,5 +8,6 @@ setup(
    author_email='prawahkhatru77@gmail.com',
    license='MIT',
    packages=['Hammingcode'],  #same as name
-   install_requires=[], #external packages as dependencies
+   install_requires=[],
+   py_modules = ['Hammingcode'] #external packages as dependencies
 )
